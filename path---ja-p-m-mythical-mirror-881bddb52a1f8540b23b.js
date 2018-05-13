@@ -1,0 +1,2 @@
+webpackJsonp([54442810761978],{840:function(a,t){a.exports={data:{markdownRemark:{html:'<p>DANGOYA さんとの合作。6+α ステージの縦型シューティングゲームです。 <a href="http://kagaminer.in/">詳細は特設サイトをご参照ください</a>。</p>',frontmatter:{cover:null,date:"2012-08-12T00:00:23+09:00",strDate:"2012/8/11",redirect:null,tags:["game","touhou"],title:"結界幻想録 鏡",youtube:null}},site:{siteMetadata:{langKeyDefault:"ja",langs:["ja","en"]}}},pathContext:{path:"/ja/p/m/mythical-mirror/",langKey:"ja"}}}});
+//# sourceMappingURL=path---ja-p-m-mythical-mirror-881bddb52a1f8540b23b.js.map

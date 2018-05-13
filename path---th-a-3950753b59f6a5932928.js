@@ -1,0 +1,2 @@
+webpackJsonp([0xe05925bfbd5c],{868:function(t,e){t.exports={data:{markdownRemark:{html:'<ul>\n<li><a href="/en/p/t/the-alternative-age/">ENGLISH</a></li>\n<li><a href="/ja/p/t/the-alternative-age/">JAPANESE</a></li>\n</ul>',frontmatter:{cover:null,date:"2005-08-13T10:00:00+09:00",strDate:"2005/8/13",redirect:"/${lang}/p/t/the-alternative-age/",tags:[],title:"東方時封城 ~ the Alternative Age",youtube:null}},site:{siteMetadata:{langKeyDefault:"ja",langs:["ja","en"]}}},pathContext:{path:"/!/thA/",langKey:"!"}}}});
+//# sourceMappingURL=path---th-a-3950753b59f6a5932928.js.map

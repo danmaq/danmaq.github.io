@@ -1,0 +1,2 @@
+webpackJsonp([0xce948699e361],{866:function(e,a){e.exports={data:{markdownRemark:{html:'<ul>\n<li><a href="/en/p/l/leila-prismriver/">ENGLISH</a></li>\n<li><a href="/ja/p/l/leila-prismriver/">JAPANESE</a></li>\n</ul>',frontmatter:{cover:null,date:"2005-12-31T10:00:00+09:00",strDate:"2005/12/31",redirect:"/${lang}/p/l/leila-prismriver/",tags:[],title:"Leila Prismriver",youtube:null}},site:{siteMetadata:{langKeyDefault:"ja",langs:["ja","en"]}}},pathContext:{path:"/!/leila/",langKey:"!"}}}});
+//# sourceMappingURL=path---leila-d1d1a7fad88e39312480.js.map
